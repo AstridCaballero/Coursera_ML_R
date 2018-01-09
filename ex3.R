@@ -1,4 +1,4 @@
-# call functions stared in Multi_Class_classification_Functions.R
+# call functions stored in Multi_Class_classification_Functions.R
 source("Multi_Class_classification_Functions.R")
 
 # Loading the data
